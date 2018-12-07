@@ -1,9 +1,8 @@
 # Data Science: CSC-505_2018_Assignment
 
-## "CSC 505 Data Science" is a UNCG Computer Science course I took that centers around a group project.  Independent of the group project,
-## three individually graded assignments were due.
+## "CSC 505 Data Science" is a UNCG Computer Science course I took that centers around a group project.  Independent of the group project, three individually graded assignments were due.
 
-This repository consists of those three assignments.
+## This repository consists of those three assignments.
 
 Assignment 1 Summary: 
 
