@@ -11,18 +11,18 @@ able to generate teams based on the number of teams provided as a variable."*
 
 2. Assignment 2 Summary: 
 
-*Part 1) Based on the example Netflix viewership data, recommend a date-movie using the Python pandas library.  Use your own analysis and 
+   *Part 1) Based on the example Netflix viewership data, recommend a date-movie using the Python pandas library.  Use your own analysis and 
 your best judgement.*
 
-*Part 2) Again using the Python pandas library, load, process, and analyze the Titanic data to find the following
+   *Part 2) Again using the Python pandas library, load, process, and analyze the Titanic data to find the following
 a) proportion of passengers that survived by sex*
-*b) same proportion of passengers, but by sex AND class
+   *b) same proportion of passengers, but by sex AND class
 c) create age categories: children (under 14 years), adolescents (14-20), adult (21-64), and senior(65+), and calculate survival 
 proportions by age category, class, and sex*
 
 3. Assignment 3 Summary: 
 
-*Using the boston housing dataset, perform the following:
+   *Using the boston housing dataset, perform the following:
 a) Data understanding and preprocessing
 b) Create an Basic Linear Regression model using Sci-Kit (sklearn)
 c) Evaluate the Effect of Dimensionality Reduction
