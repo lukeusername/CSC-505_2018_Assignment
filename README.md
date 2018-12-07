@@ -6,7 +6,7 @@
 
 1. Assignment 1 Summary: 
 
-  *"Goal: Create a ipython notebook of random team generator based on the .tsv file supplied. The program should be 
+  "Goal: Create a ipython notebook of random team generator based on the .tsv file supplied. The program should be 
 able to generate teams based on the number of teams provided as a variable."
 
 2. Assignment 2 Summary: 
