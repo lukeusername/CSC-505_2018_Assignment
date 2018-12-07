@@ -1,1 +1,29 @@
-# CSC-505_2018_Assignment
+# Data Science: CSC-505_2018_Assignment
+
+"CSC 505 Data Science" is a UNCG Computer Science course I took that centers around a group project.  Independent of the group project, 
+three individually graded assignments were due.
+
+This repository consists of those three assignments.
+
+Assignment 1 Summary: 
+
+"Goal: Create a ipython notebook of random team generator based on the .tsv file supplied. The program should be 
+able to generate teams based on the number of teams provided as a variable."
+
+Assignment 2 Summary: 
+
+Part 1) Based on the example Netflix viewership data, recommend a date-movie using the Python pandas library.  Use your own analysis and 
+your best judgement.
+
+Part 2) Again using the Python pandas library, load, process, and analyze the Titanic data to find the following
+a) proportion of passengers that survived by sex
+b) same proportion of passengers, but by sex AND class
+c) create age categories: children (under 14 years), adolescents (14-20), adult (21-64), and senior(65+), and calculate survival proportions by age category, class, and sex
+
+Assignment 3 Summary: 
+
+Using the boston housing dataset, perform the following:
+a) Data understanding and preprocessing
+b) Create an Basic Linear Regression model using Sci-Kit (sklearn)
+c) Evaluate the Effect of Dimensionality Reduction
+d) Evaluate A Different Model - Random Forest Regressor
